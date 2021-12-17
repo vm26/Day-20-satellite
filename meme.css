@@ -1,0 +1,21 @@
+.header{
+    color:orangered;
+    text-align: center;
+    margin:30px;
+}
+.col-md-3{
+  border:2px solid;
+  text-align: center;
+  font-family:serif;
+  font-weight: bold; 
+}
+.field{
+    margin:10px;  
+    background:linear-gradient(to right,rgb(123, 123, 189) 50%,rgb(197, 29, 127));      
+}
+.row{
+    margin:15px;
+}
+.btn{
+    background-color:grey;
+}
